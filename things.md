@@ -1,28 +1,28 @@
 # Lista de Tareas para Crear una API de ToDo App en Nest.js
 
 ## Configuración Inicial
-- [ ] Crear un nuevo proyecto de Nest.js.
-- [ ] Configurar Nest.js para utilizar TypeScript.
-- [ ] Instalar las dependencias necesarias, como `@nestjs/common`, `@nestjs/core`, `@nestjs/mongoose`, etc.
-- [ ] Configurar el servidor de base de datos (MongoDB, PostgreSQL, MySQL, etc.).
+- [x] Crear un nuevo proyecto de Nest.js.
+- [x] Configurar Nest.js para utilizar TypeScript.
+- [x] Instalar las dependencias necesarias, como `@nestjs/common`, `@nestjs/core`, `@nestjs/mongoose`, etc.
+- [x] Configurar el servidor de base de datos (MongoDB, PostgreSQL, MySQL, etc.).
 
 ## Modelo de Datos
-- [ ] Definir el modelo de datos para la tarea (ToDo).
-- [ ] Configurar la conexión con la base de datos para el modelo de tarea.
+- [x] Definir el modelo de datos para la tarea (ToDo).
+- [x] Configurar la conexión con la base de datos para el modelo de tarea.
 
 ## Controladores
-- [ ] Crear un controlador para manejar las operaciones CRUD de las tareas.
-- [ ] Implementar los métodos para manejar las solicitudes GET, POST, PUT y DELETE para las tareas.
+- [x] Crear un controlador para manejar las operaciones CRUD de las tareas.
+- [x] Implementar los métodos para manejar las solicitudes GET, POST, PUT y DELETE para las tareas.
 
 ## Servicios
-- [ ] Crear un servicio para manejar la lógica de negocio relacionada con las tareas.
-- [ ] Implementar métodos en el servicio para realizar operaciones CRUD en el modelo de tarea.
+- [x] Crear un servicio para manejar la lógica de negocio relacionada con las tareas.
+- [x] Implementar métodos en el servicio para realizar operaciones CRUD en el modelo de tarea.
 
 ## Middleware
-- [ ] Implementar middleware para la validación de datos de entrada en las solicitudes.
+- [x] Implementar middleware para la validación de datos de entrada en las solicitudes.
 
 ## Enrutamiento
-- [ ] Configurar las rutas para las solicitudes HTTP en la aplicación de Nest.js.
+- [x] Configurar las rutas para las solicitudes HTTP en la aplicación de Nest.js.
 
 ## Pruebas
 - [ ] Escribir pruebas unitarias para los controladores y servicios.
